@@ -1,0 +1,5 @@
+com\inetBanking\testCases\EditcustomerTest.class
+com\inetBanking\testCases\DeletecustomerTest.class
+com\inetBanking\testCases\CreateNewCustomerTest.class
+com\inetBanking\analyzer\RetryAnalyzer.class
+com\inetBanking\analyzer\TransFormer.class
