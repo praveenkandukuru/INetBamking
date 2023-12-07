@@ -1,2 +1,2 @@
-cd C:\Users\prave\inetBanking
+cd C:\Users\prave\INetBamking1
 mvn clean test

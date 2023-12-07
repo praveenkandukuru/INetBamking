@@ -6,6 +6,15 @@
   </listeners>
   <test thread-count="5" name="Test(failed)" verbose="0">
     <classes>
+      <class name="com.inetBanking.testCases.DeletecustomerTest">
+        <methods>
+          <include name="closeFile"/>
+          <include name="loadConfig"/>
+          <include name="deletecustomer"/>
+          <include name="launchApplication"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.inetBanking.testCases.DeletecustomerTest -->
       <class name="com.inetBanking.testCases.EditcustomerTest">
         <methods>
           <include name="closeFile"/>
