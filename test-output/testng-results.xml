@@ -2,74 +2,74 @@
 <testng-results ignored="4" total="7" passed="2" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-07T09:52:30 IST" name="Suite" finished-at="2023-12-07T09:53:42 IST" duration-ms="71827">
+  <suite started-at="2024-01-07T11:00:34 IST" name="Suite" finished-at="2024-01-07T11:01:55 IST" duration-ms="81245">
     <groups>
     </groups>
-    <test started-at="2023-12-07T09:52:30 IST" name="Test" finished-at="2023-12-07T09:53:42 IST" duration-ms="71827">
+    <test started-at="2024-01-07T11:00:34 IST" name="Test" finished-at="2024-01-07T11:01:55 IST" duration-ms="81245">
       <class name="com.inetBanking.testCases.CreateNewCustomerTest">
-        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.inetBanking.testCases.CreateNewCustomerTest@1e4f4a5c]" started-at="2023-12-07T09:52:30 IST" name="loadConfig" finished-at="2023-12-07T09:52:30 IST" duration-ms="35" status="PASS">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.inetBanking.testCases.CreateNewCustomerTest@1e4f4a5c]" started-at="2024-01-07T11:00:34 IST" name="loadConfig" finished-at="2024-01-07T11:00:34 IST" duration-ms="43" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadConfig -->
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.inetBanking.testCases.CreateNewCustomerTest@1e4f4a5c]" started-at="2023-12-07T09:52:30 IST" name="launchApplication" finished-at="2023-12-07T09:52:33 IST" duration-ms="3585" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.inetBanking.testCases.CreateNewCustomerTest@1e4f4a5c]" started-at="2024-01-07T11:00:34 IST" name="launchApplication" finished-at="2024-01-07T11:00:37 IST" duration-ms="2747" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="createcustomer()[pri:0, instance:com.inetBanking.testCases.CreateNewCustomerTest@1e4f4a5c]" started-at="2023-12-07T09:52:33 IST" name="createcustomer" finished-at="2023-12-07T09:52:51 IST" duration-ms="17795" status="PASS">
+        <test-method signature="createcustomer()[pri:0, instance:com.inetBanking.testCases.CreateNewCustomerTest@1e4f4a5c]" started-at="2024-01-07T11:00:37 IST" name="createcustomer" finished-at="2024-01-07T11:01:00 IST" duration-ms="23159" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createcustomer -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.CreateNewCustomerTest@1e4f4a5c]" started-at="2023-12-07T09:52:52 IST" name="tearDown" finished-at="2023-12-07T09:52:52 IST" duration-ms="365" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.CreateNewCustomerTest@1e4f4a5c]" started-at="2024-01-07T11:01:01 IST" name="tearDown" finished-at="2024-01-07T11:01:01 IST" duration-ms="331" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="closeFile()[pri:0, instance:com.inetBanking.testCases.CreateNewCustomerTest@1e4f4a5c]" started-at="2023-12-07T09:53:42 IST" name="closeFile" finished-at="2023-12-07T09:53:42 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="closeFile()[pri:0, instance:com.inetBanking.testCases.CreateNewCustomerTest@1e4f4a5c]" started-at="2024-01-07T11:01:55 IST" name="closeFile" finished-at="2024-01-07T11:01:55 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeFile -->
       </class> <!-- com.inetBanking.testCases.CreateNewCustomerTest -->
       <class name="com.inetBanking.testCases.DeletecustomerTest">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.inetBanking.testCases.DeletecustomerTest@1f9f6368]" started-at="2023-12-07T09:53:18 IST" name="launchApplication" finished-at="2023-12-07T09:53:19 IST" duration-ms="1051" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.inetBanking.testCases.DeletecustomerTest@1f9f6368]" started-at="2024-01-07T11:01:31 IST" name="launchApplication" finished-at="2024-01-07T11:01:32 IST" duration-ms="1612" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="deletecustomer()[pri:0, instance:com.inetBanking.testCases.DeletecustomerTest@1f9f6368]" started-at="2023-12-07T09:53:19 IST" name="deletecustomer" finished-at="2023-12-07T09:53:41 IST" duration-ms="22008" status="PASS">
+        <test-method signature="deletecustomer()[pri:0, instance:com.inetBanking.testCases.DeletecustomerTest@1f9f6368]" started-at="2024-01-07T11:01:32 IST" name="deletecustomer" finished-at="2024-01-07T11:01:55 IST" duration-ms="22496" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deletecustomer -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.DeletecustomerTest@1f9f6368]" started-at="2023-12-07T09:53:41 IST" name="tearDown" finished-at="2023-12-07T09:53:42 IST" duration-ms="374" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.DeletecustomerTest@1f9f6368]" started-at="2024-01-07T11:01:55 IST" name="tearDown" finished-at="2024-01-07T11:01:55 IST" duration-ms="317" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.inetBanking.testCases.DeletecustomerTest -->
       <class name="com.inetBanking.testCases.EditcustomerTest">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.inetBanking.testCases.EditcustomerTest@5efa40fe]" started-at="2023-12-07T09:52:52 IST" name="launchApplication" finished-at="2023-12-07T09:52:53 IST" duration-ms="1067" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.inetBanking.testCases.EditcustomerTest@5efa40fe]" started-at="2024-01-07T11:01:01 IST" name="launchApplication" finished-at="2024-01-07T11:01:03 IST" duration-ms="1536" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="editcustomer()[pri:0, instance:com.inetBanking.testCases.EditcustomerTest@5efa40fe]" started-at="2023-12-07T09:52:53 IST" name="editcustomer" finished-at="2023-12-07T09:53:17 IST" duration-ms="24051" status="FAIL">
+        <test-method signature="editcustomer()[pri:0, instance:com.inetBanking.testCases.EditcustomerTest@5efa40fe]" started-at="2024-01-07T11:01:03 IST" name="editcustomer" finished-at="2024-01-07T11:01:30 IST" duration-ms="27602" status="FAIL">
           <exception class="org.openqa.selenium.ElementNotInteractableException">
             <message>
               <![CDATA[element not interactable
-  (Session info: chrome=119.0.6045.200)
+  (Session info: chrome=120.0.6099.199)
 Build info: version: '4.13.0', revision: 'ba948ece5b*'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [ba845cc41352693bf0bb79885810d8ad, sendKeysToElement {id=A3DE4508E649D03AE90B5760CFA21721_element_153, value=[Ljava.lang.CharSequence;@5fc7255c}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.200, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\prave\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60007}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60007/devtoo..., se:cdpVersion: 119.0.6045.200, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (ba845cc41352693bf0bb79885810d8ad)] -> name: name]
-Session ID: ba845cc41352693bf0bb79885810d8ad]]>
+Command: [15261ad92bcaa48b0a7cff81ae6fd213, sendKeysToElement {id=9D5DC7DB5413C8D3A47CA0DBFE2DC069_element_150, value=[Ljava.lang.CharSequence;@6efd0a6e}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.199, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\prave\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58200}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58200/devtoo..., se:cdpVersion: 120.0.6099.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (15261ad92bcaa48b0a7cff81ae6fd213)] -> name: name]
+Session ID: 15261ad92bcaa48b0a7cff81ae6fd213]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
-  (Session info: chrome=119.0.6045.200)
+  (Session info: chrome=120.0.6099.199)
 Build info: version: '4.13.0', revision: 'ba948ece5b*'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [ba845cc41352693bf0bb79885810d8ad, sendKeysToElement {id=A3DE4508E649D03AE90B5760CFA21721_element_153, value=[Ljava.lang.CharSequence;@5fc7255c}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.200, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\prave\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60007}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60007/devtoo..., se:cdpVersion: 119.0.6045.200, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (ba845cc41352693bf0bb79885810d8ad)] -> name: name]
-Session ID: ba845cc41352693bf0bb79885810d8ad
+Command: [15261ad92bcaa48b0a7cff81ae6fd213, sendKeysToElement {id=9D5DC7DB5413C8D3A47CA0DBFE2DC069_element_150, value=[Ljava.lang.CharSequence;@6efd0a6e}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.199, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\prave\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58200}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58200/devtoo..., se:cdpVersion: 120.0.6099.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (15261ad92bcaa48b0a7cff81ae6fd213)] -> name: name]
+Session ID: 15261ad92bcaa48b0a7cff81ae6fd213
 at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
 at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
 at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
@@ -120,7 +120,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- editcustomer -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.EditcustomerTest@5efa40fe]" started-at="2023-12-07T09:53:18 IST" name="tearDown" finished-at="2023-12-07T09:53:18 IST" duration-ms="397" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.EditcustomerTest@5efa40fe]" started-at="2024-01-07T11:01:31 IST" name="tearDown" finished-at="2024-01-07T11:01:31 IST" duration-ms="309" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

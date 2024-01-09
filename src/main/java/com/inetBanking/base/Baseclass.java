@@ -59,7 +59,7 @@ public class Baseclass {
 		String browser = prop.getProperty("browser");
 		
 		if (browser.equals("Chrome")) {
-			System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"\\browserExecutables\\chromedriver.exe");
+			//System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"\\browserExecutables\\chromedriver.exe");
 			
 			driver = new ChromeDriver();
 			log.debug("chrome Browser is launched");

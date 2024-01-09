@@ -43,7 +43,7 @@ public class Listeners extends Baseclass implements ITestListener {
 
 	public void onTestFailure(ITestResult result) {
 
-      String scname=result.getMethod().getMethodName()+".png";
+      String scname=result.getMethod().getMethodName()+d.toString().replace(":", "_").replace(" ", "_")+".png";
 		
 
 		String exceptionmsg = Arrays.toString(result.getThrowable().getStackTrace());

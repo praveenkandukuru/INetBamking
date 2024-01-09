@@ -13686,3 +13686,108 @@
 2023-12-07 12:07:28,570 - com.inetBanking.base.Baseclass -INFO - entered details in all mandatory fields
 2023-12-07 12:07:29,224 - com.inetBanking.base.Baseclass -INFO - click on delete customer link
 2023-12-07 12:07:39,499 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2023-12-08 12:42:37,969 - com.inetBanking.base.Baseclass -INFO - entered url
+2023-12-08 12:42:39,903 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2023-12-08 12:42:40,862 - com.inetBanking.base.Baseclass -INFO - click on newCustomer link
+2023-12-08 12:42:45,932 - com.inetBanking.base.Baseclass -INFO - entered details in all mandatory fields
+2023-12-08 12:42:50,214 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2023-12-08 12:42:57,682 - com.inetBanking.base.Baseclass -INFO - entered url
+2023-12-08 12:43:00,025 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2023-12-08 12:43:00,702 - com.inetBanking.base.Baseclass -INFO - click on newCustomer link
+2023-12-08 12:43:05,423 - com.inetBanking.base.Baseclass -INFO - entered details in all mandatory fields
+2023-12-08 12:43:10,242 - com.inetBanking.base.Baseclass -INFO - click on editcustomer link link
+2023-12-08 12:43:30,642 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2023-12-08 12:43:38,979 - com.inetBanking.base.Baseclass -INFO - entered url
+2023-12-08 12:43:40,732 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2023-12-08 12:43:41,506 - com.inetBanking.base.Baseclass -INFO - click on newCustomer link
+2023-12-08 12:43:45,684 - com.inetBanking.base.Baseclass -INFO - entered details in all mandatory fields
+2023-12-08 12:43:47,428 - com.inetBanking.base.Baseclass -INFO - click on delete customer link
+2023-12-08 12:43:57,690 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2023-12-08 14:01:06,662 - com.inetBanking.base.Baseclass -INFO - entered url
+2023-12-08 14:01:11,878 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2023-12-08 14:01:13,187 - com.inetBanking.base.Baseclass -INFO - click on newCustomer link
+2023-12-08 14:01:26,317 - com.inetBanking.base.Baseclass -INFO - entered details in all mandatory fields
+2023-12-08 14:01:30,373 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2023-12-08 14:01:42,108 - com.inetBanking.base.Baseclass -INFO - entered url
+2023-12-08 14:01:44,066 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2023-12-08 14:01:47,890 - com.inetBanking.base.Baseclass -INFO - click on newCustomer link
+2023-12-08 14:01:53,465 - com.inetBanking.base.Baseclass -INFO - entered details in all mandatory fields
+2023-12-08 14:01:57,952 - com.inetBanking.base.Baseclass -INFO - click on editcustomer link link
+2023-12-08 14:02:18,286 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2023-12-08 14:02:28,210 - com.inetBanking.base.Baseclass -INFO - entered url
+2023-12-08 14:02:30,338 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2023-12-08 14:02:31,003 - com.inetBanking.base.Baseclass -INFO - click on newCustomer link
+2023-12-08 14:02:36,725 - com.inetBanking.base.Baseclass -INFO - entered details in all mandatory fields
+2023-12-08 14:02:38,064 - com.inetBanking.base.Baseclass -INFO - click on delete customer link
+2023-12-08 14:02:48,333 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2023-12-08 22:08:26,461 - com.inetBanking.base.Baseclass -INFO - entered url
+2023-12-08 22:08:28,250 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2023-12-08 22:08:29,095 - com.inetBanking.base.Baseclass -INFO - click on newCustomer link
+2023-12-08 22:08:32,998 - com.inetBanking.base.Baseclass -INFO - entered details in all mandatory fields
+2023-12-08 22:08:34,645 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2023-12-08 22:08:43,090 - com.inetBanking.base.Baseclass -INFO - entered url
+2023-12-08 22:08:44,980 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2023-12-08 22:08:45,822 - com.inetBanking.base.Baseclass -INFO - click on newCustomer link
+2023-12-08 22:08:49,438 - com.inetBanking.base.Baseclass -INFO - entered details in all mandatory fields
+2023-12-08 22:08:50,104 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2023-12-08 22:09:00,125 - com.inetBanking.base.Baseclass -INFO - entered url
+2023-12-08 22:09:01,976 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2023-12-08 22:09:03,453 - com.inetBanking.base.Baseclass -INFO - click on newCustomer link
+2023-12-08 22:09:09,843 - com.inetBanking.base.Baseclass -INFO - entered details in all mandatory fields
+2023-12-08 22:09:13,799 - com.inetBanking.base.Baseclass -INFO - click on delete customer link
+2023-12-08 22:09:20,302 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2023-12-14 13:31:19,375 - com.inetBanking.base.Baseclass -INFO - entered url
+2023-12-14 13:31:21,475 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2023-12-14 13:31:22,271 - com.inetBanking.base.Baseclass -INFO - click on newCustomer link
+2023-12-14 13:31:22,896 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2024-01-07 10:55:00,047 - com.inetBanking.base.Baseclass -INFO - entered url
+2024-01-07 10:55:01,370 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2024-01-07 10:55:03,559 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2024-01-07 10:55:13,652 - com.inetBanking.base.Baseclass -INFO - entered url
+2024-01-07 10:55:14,419 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2024-01-07 10:55:15,852 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2024-01-07 10:55:26,577 - com.inetBanking.base.Baseclass -INFO - entered url
+2024-01-07 10:55:27,757 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2024-01-07 10:55:29,188 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2024-01-07 10:56:00,494 - com.inetBanking.base.Baseclass -INFO - entered url
+2024-01-07 10:56:01,798 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2024-01-07 10:56:03,858 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2024-01-07 10:56:12,409 - com.inetBanking.base.Baseclass -INFO - entered url
+2024-01-07 10:56:13,438 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2024-01-07 10:56:14,863 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2024-01-07 10:56:24,892 - com.inetBanking.base.Baseclass -INFO - entered url
+2024-01-07 10:56:25,799 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2024-01-07 10:56:27,162 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2024-01-07 11:00:47,131 - com.inetBanking.base.Baseclass -INFO - entered url
+2024-01-07 11:00:49,249 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2024-01-07 11:00:49,512 - com.inetBanking.base.Baseclass -INFO - click on newCustomer link
+2024-01-07 11:00:56,792 - com.inetBanking.base.Baseclass -INFO - entered details in all mandatory fields
+2024-01-07 11:01:01,263 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2024-01-07 11:01:11,549 - com.inetBanking.base.Baseclass -INFO - entered url
+2024-01-07 11:01:13,760 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2024-01-07 11:01:14,354 - com.inetBanking.base.Baseclass -INFO - click on newCustomer link
+2024-01-07 11:01:21,166 - com.inetBanking.base.Baseclass -INFO - entered details in all mandatory fields
+2024-01-07 11:01:25,696 - com.inetBanking.base.Baseclass -INFO - click on editcustomer link link
+2024-01-07 11:01:31,052 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2024-01-07 11:01:41,613 - com.inetBanking.base.Baseclass -INFO - entered url
+2024-01-07 11:01:43,414 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2024-01-07 11:01:44,433 - com.inetBanking.base.Baseclass -INFO - click on newCustomer link
+2024-01-07 11:01:49,061 - com.inetBanking.base.Baseclass -INFO - entered details in all mandatory fields
+2024-01-07 11:01:50,777 - com.inetBanking.base.Baseclass -INFO - click on delete customer link
+2024-01-07 11:01:55,515 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2024-01-08 10:56:04,949 - com.inetBanking.base.Baseclass -INFO - entered url
+2024-01-08 10:56:06,387 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2024-01-08 10:56:07,209 - com.inetBanking.base.Baseclass -INFO - click on newCustomer link
+2024-01-08 10:56:10,705 - com.inetBanking.base.Baseclass -INFO - entered details in all mandatory fields
+2024-01-08 10:56:13,223 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2024-01-08 10:56:22,160 - com.inetBanking.base.Baseclass -INFO - entered url
+2024-01-08 10:56:23,667 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2024-01-08 10:56:24,381 - com.inetBanking.base.Baseclass -INFO - click on newCustomer link
+2024-01-08 10:56:26,897 - com.inetBanking.base.Baseclass -INFO - entered details in all mandatory fields
+2024-01-08 10:56:30,910 - com.inetBanking.base.Baseclass -INFO - click on editcustomer link link
+2024-01-08 10:56:41,860 - com.inetBanking.base.Baseclass -INFO - the browser will close
+2024-01-08 10:56:51,244 - com.inetBanking.base.Baseclass -INFO - entered url
+2024-01-08 10:56:52,583 - com.inetBanking.base.Baseclass -INFO - successfully logged in
+2024-01-08 10:56:53,320 - com.inetBanking.base.Baseclass -INFO - click on newCustomer link
+2024-01-08 10:56:54,845 - com.inetBanking.base.Baseclass -INFO - entered details in all mandatory fields
+2024-01-08 10:56:56,338 - com.inetBanking.base.Baseclass -INFO - the browser will close
